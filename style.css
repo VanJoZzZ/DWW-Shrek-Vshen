@@ -1,0 +1,39 @@
+body{
+    background-color:salmon;
+
+}
+
+p{
+    color:aquamarine;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+ol{
+    color:white;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+#coconuts{
+    color:blue;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.black-bg{
+    background-color:black;
+    color:white;
+    padding: 0px 32px;
+    margin: 64px;
+
+}
+
+#bob{
+    background-color:purple;
+
+
+}
